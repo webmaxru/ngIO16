@@ -8,4 +8,3 @@ if (environment.production) {
 }
 
 bootstrap(HelloMobileAppComponent, [ APP_SHELL_RUNTIME_PROVIDERS ]);
-
