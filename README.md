@@ -8,10 +8,11 @@ $ npm install -g angular-cli
 
 (Note: this recipe is based on version 1.0.0-beta.4 of Angular CLI.)
 
-Then install dependencies:
+Then install dependencies and types:
 
 ```
 $ npm install
+$ typings install
 ```
 
 Then serve the app:
