@@ -2,6 +2,8 @@
 
 ![ngIO16](https://raw.githubusercontent.com/webmaxru/ngIO16/master/src/icons/icon.png "ngIO16")
 
+[DEMO](https://ngio16.firebaseapp.com)
+
 To get started, install Angular CLI from [npm](https://www.npmjs.com/).
 
 ```
