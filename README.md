@@ -1,12 +1,12 @@
 # Progressive Web App with [Angular CLI](https://cli.angular.io) + AngularFire2 + Angular Material 2
 
+![ngIO16](https://raw.githubusercontent.com/webmaxru/ngIO16/master/src/icons/icon.png "ngIO16")
+
 To get started, install Angular CLI from [npm](https://www.npmjs.com/).
 
 ```
 $ npm install -g angular-cli
 ```
-
-(Note: this recipe is based on version 1.0.0-beta.4 of Angular CLI.)
 
 Then install dependencies and types:
 
